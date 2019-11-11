@@ -1,4 +1,4 @@
-# devnoise.tech - mynoise.tech Programmer Noise
+# devnoise Programmer Noise
 
  If you'd like to contribute, help me close issues.
   
